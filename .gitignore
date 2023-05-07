@@ -1,0 +1,2 @@
+# ignoring target files for rust
+/target/
